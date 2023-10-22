@@ -5,24 +5,18 @@ body {
     height: 100vh;
     background-color: black;
 }
-
 .container {
-    
     display: flex;
     position: absolute;
     width: 1440px;
     height: 900px;
     background: #F9FBFC;
-
 }
-
 .up {
-    
     position: absolute;
     width: 1440px;
     height: 450px;
     background: #1D539E;
-
 }
 .top {
     position: absolute;
@@ -33,24 +27,19 @@ body {
     color: #FFF;
     font-size: 48px;
     font-family: Open Sans;
-    font-weight: 700;
-    
+    font-weight: 700; 
 }
-
 .first {
     position: absolute;
     width: 553px;
     height: 50px;
     margin-top: 185px;
     margin-left: 444px;
-    
     color: #FFF;
     text-align: center;
     font-size: 18px;
     font-family: Open Sans; 
-
 }
-
 .card {
     position: absolute;
     width: 355px;
@@ -60,9 +49,7 @@ body {
     border-radius: 8px;
     background: #FFF;
     box-shadow: 0px 1px 2px 0px rgba(142, 150, 185, 0.25);
-
 }
-
 .free {
     position: absolute;
     width: 51px;
@@ -73,9 +60,7 @@ body {
     font-size: 18px;
     font-family: Open Sans;
     font-weight: 600;
-
 }
-
 .price {
     position: absolute;
     display: flex;
@@ -87,9 +72,7 @@ body {
     font-size: 36px;
     font-family: Open Sans;
     font-weight: 700;
-
 }
-
 .mes{
     position: absolute;
     width: 42px;
@@ -100,7 +83,6 @@ body {
     font-size: 18px;
     font-family: Open Sans;
 }
-
 .paragrafo {
     position: absolute;
     width: 291px;
@@ -111,7 +93,6 @@ body {
     font-size: 14px;
     font-family: Open Sans;
 }
-
 .line {
     position: absolute;
     width: 295px;
@@ -119,9 +100,7 @@ body {
     margin-top: 192px;
     margin-left: 30px;
     background: #EEE;
-
 }
-
 ul {
     position: absolute;
     width: 261px;
@@ -130,20 +109,15 @@ ul {
     margin-left: 64px;
     text-decoration: none;
     list-style-type: none;
-    
-
 
 }
-
 ul li{
     color: #828799;
 font-size: 14px;
 font-family: Open Sans;
 font-weight: 600;
 padding-bottom: 20px;
-
 }
-
 .tick {
     position: absolute;
     width: 18px;
@@ -151,9 +125,7 @@ padding-bottom: 20px;
     margin-top: 214px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
-
 }
-
 .tick1 {
     position: absolute;
     width: 18px;
@@ -161,9 +133,7 @@ padding-bottom: 20px;
     margin-top: 253px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
-
 }
-
 .botton {
     display: flex;
     position: absolute;
@@ -171,36 +141,25 @@ padding-bottom: 20px;
     height: 49px;
     margin-top: 391px;
     margin-left: 29px;
-    
-
     border-radius: 10px;
     border: 1px solid #1D539E;
-    
-
 }
-
  .assinar {
-   
     position: absolute;
     width: auto;
     height:  auto;
     margin-top: 12px;
     margin-left: 110px ;
-    color: #1D539E;
-    
+    color: #1D539E; 
     font-size: 18px;
     font-family: Open Sans;
     font-weight: 600;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;    
 }
-
 .botton:hover {
     background-color: black;
-    border: 2px solid #1D539E;
-    
+    border: 2px solid #1D539E; 
 }
-
 .card-center {
     
     position: absolute;
@@ -211,19 +170,15 @@ padding-bottom: 20px;
     border-radius: 8px;
     background: #FFF;
     box-shadow: 0px 1px 2px 0px rgba(142, 150, 185, 0.25);
-
 }
-
 .head {
     position: absolute;
     width: 355px;
     height: 76px;
     border-radius: 8px 8px 0px 0px;
     background: #FFCC29;
-    box-shadow: 0px 1px 2px 0px rgba(142, 150, 185, 0.25);
-    
+    box-shadow: 0px 1px 2px 0px rgba(142, 150, 185, 0.25); 
 }
-
 .basico {
     position: absolute;
     width: 63px;
@@ -234,7 +189,6 @@ padding-bottom: 20px;
     font-size: 20px;
     font-family: Open Sans;
     font-weight: 600;
-
 }
 .botton1 {
     border: 1px solid blue;
@@ -245,9 +199,7 @@ padding-bottom: 20px;
     margin-left: 241px;
     border-radius: 40px;
     background: #1D539E;
-
 }
-
 .popular {
     color: #FFF;
     text-align: center;
@@ -256,7 +208,6 @@ padding-bottom: 20px;
     font-weight: 600;
     margin-top: 8px
 }
-
 .price1 {
     position: absolute;
     width: 155px;
@@ -267,9 +218,7 @@ padding-bottom: 20px;
     font-size: 38px;
     font-family: Open Sans;
     font-weight: 700;
-
 }
-
 .mes1 {
     position: absolute;
     width: 42px;
@@ -279,9 +228,7 @@ padding-bottom: 20px;
     color: #828799;
     font-size: 18px;
     font-family: Open Sans;
-
 }
-
 .paragrafo1 {
     position: absolute;
     width: 291px;
@@ -291,9 +238,7 @@ padding-bottom: 20px;
     color: #828799;
     font-size: 14px;
     font-family: Open Sans;
-
 }
-
 .line1 {
     position: absolute;
     width: 295px;
@@ -302,7 +247,6 @@ padding-bottom: 20px;
     margin-left: 30px;
     background: #EEE;
 }
-
 .lista-vertical1 {
     position: absolute;
     width: 261px;
@@ -312,7 +256,6 @@ padding-bottom: 20px;
     text-decoration: none;
     list-style-type: none;
 }
-
 .tick2 {
     position: absolute;
     width: 18px;
@@ -321,7 +264,6 @@ padding-bottom: 20px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
 }
-
 .tick3 {
     position: absolute;
     width: 18px;
@@ -330,7 +272,6 @@ padding-bottom: 20px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
 }
-
 .tick4 {
     position: absolute;
     width: 18px;
@@ -339,7 +280,6 @@ padding-bottom: 20px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
 }
-
 .botton2 {
     position: absolute;
     width: 296px;
@@ -347,10 +287,8 @@ padding-bottom: 20px;
     margin-top: 396px;
     margin-left: 29px;
     border-radius: 10px;
-    background: #1D539E;
-    
+    background: #1D539E;  
 }
-
 .assinar1 {
     position: absolute;
     width: 83px;
@@ -362,15 +300,12 @@ padding-bottom: 20px;
     font-size: 20px;
     font-family: Open Sans;
     font-weight: 600;
-    text-transform: uppercase;
-    
+    text-transform: uppercase; 
 }
-
 .botton2:hover {
     background-color: #FFCC29;
     border: 2px solid #1D539E;
 }
-
 .card-right {
     position: absolute;
     width: 355px;
@@ -380,10 +315,7 @@ padding-bottom: 20px;
     border-radius: 8px;
     background: #FFF;
     box-shadow: 0px 1px 2px 0px rgba(142, 150, 185, 0.25);
-
-
 }
-
 .pro  {
     position: absolute;
     width: 102px;
@@ -394,9 +326,7 @@ padding-bottom: 20px;
     font-size: 18px;
     font-family: Open Sans;
     font-weight: 600;
-
 }
-
 .price2 {
     position: absolute;
     width: 140px;
@@ -418,7 +348,6 @@ padding-bottom: 20px;
     font-size: 18px;
     font-family: Open Sans;
 }
-
 .paragrafo2 {
    position: absolute;
    width: 291px;
@@ -429,7 +358,6 @@ padding-bottom: 20px;
    font-size: 14px;
    font-family: Open Sans;
 }
-
 .line2 {
     position: absolute;
     width: 295px;
@@ -437,9 +365,7 @@ padding-bottom: 20px;
     margin-top: 195px;
     margin-left: 30px;
     background: #EEE;
-
 }
-
 .lista-vertical2 {
     position: absolute;
     width: 261px;
@@ -449,7 +375,6 @@ padding-bottom: 20px;
     text-decoration: none;
     list-style-type: none;
 }
-
 .tick5 {
     position: absolute;
     width: 18px;
@@ -458,7 +383,6 @@ padding-bottom: 20px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
 }
-
 .tick6 {
     position: absolute;
     width: 18px;
@@ -467,7 +391,6 @@ padding-bottom: 20px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
 }
-
 .tick7 {
     position: absolute;
     width: 18px;
@@ -476,7 +399,6 @@ padding-bottom: 20px;
     margin-left: 31px;
     background-image: url(assets/check.svg);
 }
-
 .botton3 {
     position: absolute;
     width: 296px;
@@ -486,7 +408,6 @@ padding-bottom: 20px;
     border-radius: 10px;
     border: 1px solid #1D539E;
 }
-
 .assinar2 {
     position: absolute;
     width: 83px;
@@ -500,7 +421,6 @@ padding-bottom: 20px;
     font-weight: 600;
     text-transform: uppercase;
 }
-
 .botton3:hover {
     background-color: black;
     border: 2px solid #1D539E;
@@ -508,3 +428,4 @@ padding-bottom: 20px;
 
 /* web feito dia 28/06/2023, desafio intermidiario  e terminado no mesmo dia um pouco de dificuldade nos cards 
 tem que ser revisto futuramente como nos outros*/
+/* fiz pequenas mudancas nada de especal dia 22/10/23*/
